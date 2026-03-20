@@ -31,7 +31,7 @@ Acesse a página de **[Releases](https://github.com/GuilhermeDevv/gplay-download
 
 | Plataforma | Arquivo | Status |
 |:---:|:---:|:---:|
-| 📱 iOS | `GPLAY.ipa` | ✅ Disponível |
+| 📱 iOS | [⬇️ GPLAY.ipa](https://github.com/GuilhermeDevv/gplay-download/releases/download/vBetaDev/GPLAY.ipa) | ✅ Disponível |
 | 🤖 Android | `GPLAY.apk` | 🔜 Em breve |
 
 ---
