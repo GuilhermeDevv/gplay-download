@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/GuilhermeDevv/gplay/master/assets/logo/logo-gplay.png" width="120" alt="GPLAY Logo" />
+<img src="https://raw.githubusercontent.com/GuilhermeDevv/gplay-download/main/logo.png" width="120" alt="GPLAY Logo" />
 
 # 📺 GPLAY
 
