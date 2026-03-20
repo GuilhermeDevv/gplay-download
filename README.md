@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/GuilhermeDevv/gplay/master/assets/images/icon.png" width="120" alt="GPLAY Logo" />
+<img src="https://raw.githubusercontent.com/GuilhermeDevv/gplay/master/assets/logo/logo-gplay.png" width="120" alt="GPLAY Logo" />
 
 # 📺 GPLAY
 
 ### Player IPTV gratuito para iOS e Android
 
-[![vBetaDev](https://img.shields.io/badge/versão-vBetaDev-E50914?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik00IDh2OGwyLjUgMS41VjkuNUw0IDh6bTcgMEw4IDkuNXY3bDMgMS41IDMtMS41di03bC0zLTEuNXptNi41IDBMN iA5LjV2N2wyLjUgMS41VjkuNUwxNy41IDh6Ii8+PC9zdmc+)](https://github.com/GuilhermeDevv/gplay-download/releases/latest)
+[![vBetaDev](https://img.shields.io/badge/versão-vBetaDev-E50914?style=for-the-badge)](https://github.com/GuilhermeDevv/gplay-download/releases/latest)
 [![iOS](https://img.shields.io/badge/iOS-14%2B-black?style=for-the-badge&logo=apple)](https://github.com/GuilhermeDevv/gplay-download/releases/latest)
 [![Android](https://img.shields.io/badge/Android-APK-3DDC84?style=for-the-badge&logo=android)](https://github.com/GuilhermeDevv/gplay-download/releases/latest)
 [![Gratuito](https://img.shields.io/badge/100%25-Gratuito-success?style=for-the-badge)](https://github.com/GuilhermeDevv/gplay-download/releases/latest)
@@ -32,7 +32,7 @@ Acesse a página de **[Releases](https://github.com/GuilhermeDevv/gplay-download
 | Plataforma | Arquivo | Status |
 |:---:|:---:|:---:|
 | 📱 iOS | [⬇️ GPLAY.ipa](https://github.com/GuilhermeDevv/gplay-download/releases/download/vBetaDev/GPLAY.ipa) | ✅ Disponível |
-| 🤖 Android | `GPLAY.apk` | 🔜 Em breve |
+| 🤖 Android | [⬇️ GPLAY.apk](https://github.com/GuilhermeDevv/gplay-download/releases/download/vBetaDev/GPLAY.apk) | ✅ Disponível |
 
 ---
 
@@ -121,11 +121,7 @@ Com uma conta Apple ID gratuita, o app expira em **7 dias**. Para renovar:
 
 ## 🤖 Instalação no Android
 
-> 🔜 **APK em breve!** Enquanto isso, fique de olho nas [Releases](https://github.com/GuilhermeDevv/gplay-download/releases).
-
-Quando o APK estiver disponível, basta:
-
-1. Baixe o arquivo **`GPLAY.apk`**
+1. Baixe o arquivo **[⬇️ GPLAY.apk](https://github.com/GuilhermeDevv/gplay-download/releases/download/vBetaDev/GPLAY.apk)**
 2. No Android, vá em **Configurações → Segurança → Fontes desconhecidas** e ative
    _(Em versões mais recentes: Configurações → Apps → Instalar apps desconhecidos)_
 3. Abra o arquivo `.apk` baixado
