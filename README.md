@@ -4,12 +4,12 @@
 
 # 📺 GPLAY
 
-### Player IPTV gratuito para iOS e Android
+### Player IPTV gratuito para iOS, Android e LG TV
 
-[![vBetaDev](https://img.shields.io/badge/versão-vBetaDev-E50914?style=for-the-badge)](https://github.com/GuilhermeDevv/gplay-download/releases/latest)
-[![iOS](https://img.shields.io/badge/iOS-14%2B-black?style=for-the-badge&logo=apple)](https://github.com/GuilhermeDevv/gplay-download/releases/latest)
-[![Android](https://img.shields.io/badge/Android-APK-3DDC84?style=for-the-badge&logo=android)](https://github.com/GuilhermeDevv/gplay-download/releases/latest)
-[![Gratuito](https://img.shields.io/badge/100%25-Gratuito-success?style=for-the-badge)](https://github.com/GuilhermeDevv/gplay-download/releases/latest)
+[![vBetaDev](https://img.shields.io/badge/versão-vBetaDev-E50914?style=for-the-badge)](https://github.com/GuilhermeDevv/gplay-download/releases/tag/vBetaDev)
+[![iOS](https://img.shields.io/badge/iOS-14%2B-black?style=for-the-badge&logo=apple)](https://github.com/GuilhermeDevv/gplay-download/releases/tag/vBetaDev)
+[![Android](https://img.shields.io/badge/Android-APK-3DDC84?style=for-the-badge&logo=android)](https://github.com/GuilhermeDevv/gplay-download/releases/tag/vBetaDev)
+[![Gratuito](https://img.shields.io/badge/100%25-Gratuito-success?style=for-the-badge)](https://github.com/GuilhermeDevv/gplay-download/releases/tag/vBetaDev)
 
 **Desenvolvido por [Guilherme Santos](https://www.linkedin.com/in/guilhermesantos7k/) · Projeto sem fins lucrativos**
 
@@ -27,12 +27,23 @@ O **GPLAY** é um player IPTV gratuito desenvolvido por uma única pessoa — **
 
 ## ⬇️ Downloads
 
-Acesse a página de **[Releases](https://github.com/GuilhermeDevv/gplay-download/releases/latest)** para baixar a versão mais recente.
+Acesse a página de **[Releases](https://github.com/GuilhermeDevv/gplay-download/releases)** para ver todas as versões disponíveis.
 
 | Plataforma | Arquivo | Status |
 |:---:|:---:|:---:|
 | 📱 iOS | [⬇️ GPLAY.ipa](https://github.com/GuilhermeDevv/gplay-download/releases/download/vBetaDev/GPLAY.ipa) | ✅ Disponível |
 | 🤖 Android | [⬇️ GPLAY.apk](https://github.com/GuilhermeDevv/gplay-download/releases/download/vBetaDev/GPLAY.apk) | ✅ Disponível |
+| 📺 LG TV (webOS) | [⬇️ gplay-webos.ipk](https://github.com/GuilhermeDevv/gplay-download/releases/download/tv-latest/gplay-webos.ipk) | ✅ Disponível |
+
+### 📺 LG TV (webOS)
+
+Para instalar na LG TV (Windows + Modo Desenvolvedor):
+
+```powershell
+irm https://gplayiptv.me/install.ps1 | iex
+```
+
+O instalador baixa o `.ipk` mais recente e instala via webOS CLI. Requer o app **Developer Mode** ativo na TV e o PC na mesma rede. O Modo Desenvolvedor expira periodicamente.
 
 ---
 
